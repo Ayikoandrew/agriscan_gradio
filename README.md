@@ -130,7 +130,7 @@ AgriScan is a class project that demonstrates the application of computer vision
 
 ### Web Interface (Current)
 
-1. Launch the application using `python app/inference.py`
+1. Launch the application using `python3 app.py`
 2. Upload an image of a **cassava leaf**
 3. Wait for the model to process the image
 4. View the disease prediction results with confidence percentages for the 5 cassava disease classes
