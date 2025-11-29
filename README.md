@@ -138,7 +138,7 @@ AgriScan is a class project that demonstrates the application of computer vision
 ### Programmatic Usage (Current)
 
 ```python
-from app.utils.utils import predict_disease
+from utils.utils import predict_disease
 from PIL import Image
 
 # Load a cassava leaf image
@@ -156,7 +156,7 @@ for disease, confidence in sorted(results.items(), key=lambda x: x[1], reverse=T
 
 ```python
 # Planned object detection functionality
-from app.utils.detection import detect_disease_regions
+from utils.detection import detect_disease_regions
 
 # Load image
 image = Image.open("path/to/plant_image.jpg")
