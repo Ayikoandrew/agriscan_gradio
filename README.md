@@ -64,7 +64,7 @@ AgriScan is a class project that demonstrates the application of computer vision
 - **Model Architecture**: EfficientNet-B1 (Image Classification)
 - **Web Interface**: Gradio
 - **Image Processing**: PIL (Python Imaging Library)
-- **Package Management**: Poetry (pyproject.toml)
+- **Package Management**: uv
 
 ### Planned Technologies
 - **Object Detection Framework**: YOLO v8/v9 or Detectron2
