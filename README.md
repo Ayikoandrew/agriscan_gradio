@@ -119,7 +119,7 @@ AgriScan is a class project that demonstrates the application of computer vision
 
 4. **Run the application**
    ```bash
-   python app/inference.py
+   python3 app.py
    ```
 
 5. **Access the web interface**
