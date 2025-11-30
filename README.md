@@ -106,7 +106,7 @@ AgriScan is a class project that demonstrates the application of computer vision
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd agri-scan/backend
+   cd agriscan_gradio
    ```
 
 2. **Install dependencies**
